@@ -1,89 +1,98 @@
-# Depaul-outreach-analysis-dashboard
-# 📊 Student Outreach Campaign Analysis (EDA + Dashboard Project)
+# 📊 Student Outreach Campaign Analysis Dashboard  
+**DePaul University | Excel EDA & Dashboard Project**
 
-## 📌 Project Overview
+---
 
-This project is an Exploratory Data Analysis (EDA) and dashboard development case study based on a real-world student outreach dataset from **DePaul University**.
+## 📌 Project Summary
 
-The project was completed as part of a training assignment within the **Excelerate internship program** using outreach campaign data to analyze contact performance, operational efficiency, and student engagement patterns.
+This project is an **Exploratory Data Analysis (EDA) and dashboard development case study** based on real student outreach campaign data from DePaul University.  
+
+It was completed as part of the **Excelerate internship program** to evaluate outreach efficiency, caller performance, and student engagement patterns using data-driven insights.
 
 ---
 
 ## 🎯 Objective
 
-The goal of this project is to:
+The main objectives of this analysis are:
 
-* Analyze outreach campaign effectiveness
-* Measure contact success rates across cohorts and regions
-* Identify operational bottlenecks in the outreach process
-* Develop an interactive dashboard for performance tracking
-
----
-
-## 📊 Dataset Overview
-
-* Total Records: 7,543 students
-* Contact Rate: 57.7% (4,349 contacted)
-* Date Range: 2023–2024
-* Unique Callers: 4
-* Intake Cohorts: 2022–2026
-* Regions: Multiple (Top: Telangana)
+- Measure outreach **contact effectiveness**
+- Analyze **conversion and response patterns**
+- Evaluate **caller performance efficiency**
+- Identify **operational bottlenecks**
+- Build an **interactive performance dashboard**
 
 ---
 
-## 🧠 Methodology
+## 📂 Dataset Overview
 
-* Data cleaning and preparation using Excel
-* Exploratory Data Analysis (EDA)
-* Segmentation by cohort, region, and caller performance
-* Identification of key trends and bottlenecks
-* Dashboard design for interactive analysis
+- **Total Records:** 7,543 students  
+- **Contacted Students:** 4,349  
+- **Overall Contact Rate:** 57.7%  
+- **Time Period:** 2023 – 2024  
+- **Callers:** 4 agents  
+- **Intake Cohorts:** 2022 – 2026  
+- **Regions Covered:** Multiple (Top region: Telangana)
+
+---
+
+## 🧹 Methodology
+
+- Data cleaning and preprocessing (Excel)
+- Exploratory Data Analysis (EDA)
+- Segmentation by:
+  - Intake Cohorts  
+  - Geographic Regions  
+  - Caller Performance  
+- KPI development and trend identification  
+- Dashboard design and visualization
 
 ---
 
 ## 📊 Dashboard Features
 
-The interactive dashboard includes:
-
-* Contact rate analysis by cohort
-* Caller performance distribution
-* Regional outreach comparison
-* Outcome analysis (Follow-ups, Missing Transcripts, etc.)
-* Time-based outreach trends
-* Intake cohort performance comparison
+- Contact Rate by Intake Cohort  
+- Caller Performance Comparison  
+- Regional Outreach Distribution  
+- Outcome Classification (Follow-ups, Missing Transcripts, etc.)  
+- Time-based Outreach Trends  
+- Cohort Performance Tracking  
 
 ---
 
-## 🔎 Key Insights
+## 🔎 Key Insights (Data-Driven)
 
-* Outreach performance is highly seasonal, with peaks aligned to intake deadlines
-* Significant gap exists between cohorts (2024 Fall vs 2025 Fall)
-* “Follow Up” and “Missing Transcripts” dominate outcomes (>60%)
-* Strong regional differences in contact success rates
-* Workload imbalance across callers affects efficiency
+- 📈 Outreach activity shows **seasonal spikes aligned with intake deadlines**
+- ⚠️ Significant performance gap between cohorts (especially 2024 vs 2025 intake cycles)
+- 📌 Over **60% of outcomes** are concentrated in:
+  - Follow-ups  
+  - Missing transcripts  
+- 🌍 Strong variation in contact success across regions  
+- 👤 Uneven workload distribution among 4 callers impacts efficiency
 
 ---
 
-## 📈 Outcome
+## 📊 Business Impact
 
-This project provides actionable insights to improve outreach strategy, enhance operational efficiency, and support data-driven decision-making in student engagement processes.
+This analysis provides actionable insights to:
+
+- Improve outreach conversion rate  
+- Optimize caller workload distribution  
+- Enhance student follow-up strategy  
+- Support data-driven admission operations  
 
 ---
 
 ## 🛠 Tools Used
 
-* Excel (Data Cleaning & Preparation)
-* Data Analysis Techniques (EDA)
-* Dashboard Visualization (Excel / Power BI)
-
----
-
-## ⚠️ Note
-
-This project was completed as a training assignment. It is included in my portfolio to demonstrate practical data analysis and visualization skills using real-world datasets.
+- Microsoft Excel (Data Cleaning & Analysis)  
+- Pivot Tables & Charts  
+- KPI Design  
+- Dashboard Visualization  
 
 ---
 
 ## 👩‍💻 Author
 
-Chemical Engineering graduate transitioning into Data Analytics with a focus on data-driven decision making and operational insights.
+Chemical Engineering graduate transitioning into **Data Analytics**,
+
+focusing on operational insights and data-driven decision making.
